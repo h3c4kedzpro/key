@@ -2,6 +2,6 @@
 {
   "admins": [
     {"username": "root", "key": "abc123"},
-    {"username": "MrX", "key": "mrkey999"}
+    {"key": "MrX", "key": "mrkey999"}
   ]
 }
