@@ -1,7 +1,14 @@
-// https://raw.githubusercontent.com/yourusername/yourrepo/main/admins.json
 {
   "admins": [
-    {"username": "root", "key": "abc123"},
-    {"key": "MrX", "key": "mrkey999"}
+    {
+      "username": "admin1",
+      "password": "adminpass",
+      "key": "adminkey123"
+    },
+    {
+      "username": "admin2",
+      "password": "pass456",
+      "key": "key456"
+    }
   ]
 }
