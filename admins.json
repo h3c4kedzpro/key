@@ -1,0 +1,7 @@
+// https://raw.githubusercontent.com/yourusername/yourrepo/main/admins.json
+{
+  "admins": [
+    {"username": "root", "key": "abc123"},
+    {"username": "MrX", "key": "mrkey999"}
+  ]
+}
